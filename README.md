@@ -1,1 +1,1 @@
-[{"اسم ڪارتون:":"باب اسفنجی","دانلود":"https://s16.picofile.com/file/8420201134/IMG_20201217_165501.jpg"},{"اسم ڪارتون:":"پلنگ صورتی","دانلود":"https://s16.picofile.com/file/8420201134/IMG_20201217_165501.jpg"},{"اسم ڪارتون:":"سلام","دانلود":"https://s16.picofile.com/file/8420201134/IMG_20201217_165501.jpg"}]
+https://raw.githubusercontent.com/kanalha126/karton/main
